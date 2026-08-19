@@ -1,6 +1,6 @@
 ---
 name: skroll
-description: Drive Skroll (skrollai.com) decks via the official CLI. Use when the user asks for Skroll specifically: create, edit, generate, version, or export Skroll decks, brands, or PDF/PPTX through `npx @skrollai/cli`. Do not use for generic local slide advice unrelated to Skroll.
+description: "Drive Skroll (skrollai.com) decks via the official CLI. Use when the user asks for Skroll specifically: create, edit, generate, version, or export Skroll decks, brands, or PDF/PPTX through `npx @skrollai/cli`. Do not use for generic local slide advice unrelated to Skroll."
 ---
 
 # Skroll
