@@ -10,7 +10,7 @@ Agent skill for [Skroll](https://skrollai.com), a browser-canvas presentation to
 npx skills add hamburgerlabs/skroll
 ```
 
-Works with Claude Code, Cursor, Codex, OpenCode, and other agents that speak the [Agent Skills](https://agentskills.io/) format.
+Works with any agent that implements the [Agent Skills](https://agentskills.io/) spec, including Claude Code, Cursor, and Codex.
 
 ## What it does
 
